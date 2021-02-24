@@ -24,13 +24,13 @@
     height: auto;
 }
 .card{
-    margin: 3em;
+    margin: 2.7em;
     transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
     background-color: white;
-    width: 17%;
+    width: 15%;
     border-radius: 12px;
     box-shadow: 0px 13px 10px -7pz rgba(190, 231, 7, 0.884);
-  
+   
    float: left;
 
 }
